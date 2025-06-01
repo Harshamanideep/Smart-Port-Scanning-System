@@ -1,4 +1,4 @@
-# 🔍 Vulnerability Scanner
+# 🔍 Smart Port Scanning System
 
 A lightweight yet powerful network vulnerability scanner built with Python, Nmap, and the Shodan API.
 This tool scans target IP addresses or hostnames for open ports, running services, and known vulnerabilities.
