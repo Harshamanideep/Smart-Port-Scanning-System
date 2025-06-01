@@ -1,0 +1,7 @@
+Python 3.12+ → Ensures compatibility with modern Python features and improved performance.
+
+Nmap → A powerful network scanning tool used to detect open ports and services on target machines.
+
+python-nmap → A Python wrapper for Nmap, allowing easy interaction with its scanning capabilities through Python scripts.
+
+Shodan API client → Provides access to Shodan’s cybersecurity intelligence, helping to gather additional threat insights.
